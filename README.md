@@ -1,6 +1,6 @@
 # About me
 ## Hi there 👋
-### 🌱 I’m currently learning GitHub and Python.
+### 🌱 I’m currently on GitHub and Python.
 I would rather you can accept addition of this line to the README.md<br>
 Please commit changes!
 <!--
