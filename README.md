@@ -1,8 +1,7 @@
 # About me
 ## Hi there 👋
 ### 🌱 I’m currently interested in GitHub and Python.
-I would rather you can accept addition of this line to the README.md<br>
-Please commit changes!
+
 <!--
 **hkkmwong/hkkmwong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
