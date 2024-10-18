@@ -1,5 +1,5 @@
 # About me
-## Hi there 👋
+### Hi there 👋
 ### 🌱 I’m currently interested in GitHub and Python.
 
 <!--
