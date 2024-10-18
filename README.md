@@ -1,4 +1,4 @@
-# About me <hr>
+# About me
 ## Hi there 👋
 ### 🌱 I’m currently learning GitHub and Python.
 
