@@ -1,8 +1,8 @@
 # About me
 ### Hi there 👋
 ### 🌱 I’m currently interested in GitHub and Python.
-About **me**: https://hkkmwong.github.io/hkkmwong<br>
-Another page: https://hkkmwong.github.io/site1
+*About me*: https://hkkmwong.github.io/hkkmwong<br>
+Another `page`: https://hkkmwong.github.io/site1
 
 <!--
 **hkkmwong/hkkmwong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
