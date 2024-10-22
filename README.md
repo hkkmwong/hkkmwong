@@ -1,7 +1,7 @@
 # About me
 ### Hi there 👋
 ### 🌱 I’m currently interested in GitHub and Python.
-About me: https://hkkmwong.github.io/hkkmwong<br>
+About **me**: https://hkkmwong.github.io/hkkmwong<br>
 Another page: https://hkkmwong.github.io/site1
 
 <!--
