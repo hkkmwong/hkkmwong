@@ -1,5 +1,5 @@
 # About This GitHub
-### Hi there 👋
+## Hi there 👋
 ### 🌱 I’m currently interested in GitHub and Python.
 <details>
 <summary>Show Details</summary>
