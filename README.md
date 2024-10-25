@@ -5,7 +5,11 @@
 [Another page](https://hkkmwong.github.io/site1)<br>
 [MRR page](https://hkkmwong.github.io/mrr)
 
-
+<details>
+  <summary>Show</summary>
+  <i>One</i><p>
+  <i>Two</i><p>
+</details>
 
 <!--
 **hkkmwong/hkkmwong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
