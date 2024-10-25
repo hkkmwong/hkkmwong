@@ -1,14 +1,11 @@
 # About This GitHub
 ### Hi there 👋
 ### 🌱 I’m currently interested in GitHub and Python.
+<details>
+<summary>Show Details</summary>
 [About me](https://hkkmwong.github.io/hkkmwong)<br>
 [Another page](https://hkkmwong.github.io/site1)<br>
 [MRR page](https://hkkmwong.github.io/mrr)
-
-<details>
-  <summary>Show</summary>
-  <i>One</i><p>
-  <i>Two</i><p>
 </details>
 
 <!--
