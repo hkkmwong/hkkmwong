@@ -4,8 +4,7 @@
 <details>
 <summary>Show Details</summary>
 [About me](https://hkkmwong.github.io/hkkmwong)<br>
-[Another page](https://hkkmwong.github.io/site1)<br>
-[MRR page](https://hkkmwong.github.io/mrr)
+[MRR page](https://no3lunch.github.io/mrr)
 </details>
 
 <!--
