@@ -2,7 +2,6 @@
 ## Hi there 👋
 ### 🌱 I’m currently interested in GitHub and Python.
 <details>
-<summary>Show Details</summary>
 [About me](https://hkkmwong.github.io/hkkmwong)<br>
 [Tripod]https://hkkmwong.github.io/tripod_abs<br>
 </details>
