@@ -4,6 +4,7 @@
 <details>
 <summary>Show Details</summary>
 [About me](https://hkkmwong.github.io/hkkmwong)<br>
+[Tripod]https://hkkmwong.github.io/tripod_abs
 [MRR page](https://no3lunch.github.io/mrr)
 </details>
 
