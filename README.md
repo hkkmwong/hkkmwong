@@ -1,10 +1,10 @@
 # About This GitHub
 ## Hi there 👋
 ### 🌱 I’m currently interested in GitHub and Python.
-<details>
+
 [About me](https://hkkmwong.github.io/hkkmwong)<br>
 [Tripod]https://hkkmwong.github.io/tripod_abs<br>
-</details>
+
 
 <!--
 **hkkmwong/hkkmwong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
