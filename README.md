@@ -2,10 +2,10 @@
 ## Hi there 👋
 ### 🌱 I’m currently interested in GitHub and Python.
 <details>
-<summary>Test</summary>
-1. One
-2. Two
-3. Three
+<summary>Expand</summary>
+1. One<br>
+2. Two<br>
+3. Three<br>
 </details>
 
 
