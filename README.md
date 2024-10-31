@@ -1,8 +1,8 @@
 # About This GitHub
-## Hi there 👋
-### 🌱 I’m currently interested in GitHub and Python.
+## Hi there 😊
+### 🌱 GitHub and Python.
 <details>
-<summary>Expand</summary>
+<summary>Expand Below:</summary>
 1. One<br>
 2. Two<br>
 3. Three<br>
