@@ -9,8 +9,8 @@
 </details>
 
 
-[About me](https://hkkmwong.github.io/hkkmwong)<br>
-[Tripod](https://hkkmwong.github.io/tripod_abs)<br>
+[About me](https://hkkmwong.github.io/hkkmwong)<br>{:target="_blank"} 
+[Tripod](https://hkkmwong.github.io/tripod_abs)<br>{:target="_blank"} 
 
 
 <!--
