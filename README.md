@@ -2,7 +2,7 @@
 ## Hi there 😊
 ### 🌱 GitHub and Python.
 <details>
-<summary>Expand Below:</summary>
+<summary>Expand to show</summary>
 1. One<br>
 2. Two<br>
 3. Three<br>
