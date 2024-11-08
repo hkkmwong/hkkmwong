@@ -2,7 +2,7 @@
 ## Hi there 😊
 ### 🌱 GitHub, MD and Python.
 <details>
-<summary>Expand to show</summary>
+<summary>Details</summary>
 1. GitHub<br>
 2. Markdown<br>
 3. Python<br>
