@@ -1,11 +1,11 @@
 # About This GitHub
 ## Hi there 😊
-### 🌱 GitHub and Python.
+### 🌱 GitHub, MD and Python.
 <details>
 <summary>Expand to show</summary>
-1. One<br>
-2. Two<br>
-3. Three<br>
+1. GitHub<br>
+2. Markdown<br>
+3. Python<br>
 </details>
 
 
