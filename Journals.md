@@ -6,6 +6,8 @@
 
 😍IFTTT
 
-[[Procedural Guide]] 
+[[Procedural Guide]]
 
-[[Notes_download_GSites_as_html]] 
+[[Notes_download_GSites_as_html]]
+
+[[Notes_create_pages_in_GitHub]] 
