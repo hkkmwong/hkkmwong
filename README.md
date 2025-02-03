@@ -1,22 +1,18 @@
 # About This GitHub
+
 ## Hi there 😊
+
 ### 🌱 GitHub, MD and Python.
-<details>
-<summary>Details</summary>
+
+<details> <summary>Details</summary>
+
 1. GitHub<br>
 2. Markdown<br>
-3. Python<br>
-</details>
+3. Python<br> </details>
 
+[About me](https://hkkmwong.github.io/hkkmwong) <br> [Tripod](https://hkkmwong.github.io/tripod_abs) <br>
 
-[About me](https://hkkmwong.github.io/hkkmwong)
-<br>
-[Tripod](https://hkkmwong.github.io/tripod_abs)
-<br>
-
-
-<!--
-**hkkmwong/hkkmwong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **hkkmwong/hkkmwong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -27,5 +23,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
