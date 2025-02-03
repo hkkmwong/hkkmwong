@@ -1,5 +1,3 @@
-# Procedural Guide
-
 # Protecting Children from Maltreatment - Procedural Guide for Multi-disciplinary Co-operation (Rev 2020)
 
 ## Guide to the "Guide"
@@ -31,6 +29,12 @@
 - 
 
 ## Chapter 3 - Procedures of Multi-disciplinary Co-operation in Handling Suspected Child Maltreatment/Child Protection Cases
+
+### Chapter 3.1
+
+### Chapter 3.2
+
+### Chapter 3.3
 
 ## Chapter 4 - Case Identification, Initial Handling and Reporting
 
