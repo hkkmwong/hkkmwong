@@ -2,7 +2,7 @@
 
 Go check in [GitHub](https://github.com/hkkmwong/hkkmwong/blob/main/Journals.md)
 
-_20250203 (Mon)_
+**_20250203 (Mon)_**
 
 ### Tips
 
@@ -14,7 +14,7 @@ _20250203 (Mon)_
 
 [[Notes_create_pages_in_GitHub]]
 
-_20250205 (Wed)_
+**20250205 (Wed)**
 
 - [x] Removal after office on 20250205 (Wed)
 
