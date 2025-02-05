@@ -6,7 +6,7 @@ Go check in [GitHub](https://github.com/hkkmwong/hkkmwong/blob/main/Journals.md)
 
 ### Tips
 
-😍[IFTTT](ifttt.com)
+😍[IFTTT](https://ifttt.com)
 
 [[Procedural Guide]]
 
