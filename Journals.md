@@ -6,7 +6,7 @@ Go check in [GitHub](https://github.com/hkkmwong/hkkmwong/blob/main/Journals.md)
 
 ### Tips
 
-😍IFTTT
+😍[IFTTT](ifttt.com)
 
 [[Procedural Guide]]
 
@@ -14,7 +14,7 @@ Go check in [GitHub](https://github.com/hkkmwong/hkkmwong/blob/main/Journals.md)
 
 [[Notes_create_pages_in_GitHub]]
 
-**20250205 (Wed)**
+**_20250205 (Wed)_**
 
 - [x] Removal after office on 20250205 (Wed)
 
