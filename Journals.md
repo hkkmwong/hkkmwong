@@ -16,4 +16,6 @@
 
 > - [ ] Removal after office on 20250205 (Wed)
 
-`Image cannot be uploaded from office PC to bangle.io probably due to SWD's IT security rules.`
+- [ ] Removal on 20250206 (Thu) upon work commencement.
+
+Image cannot be uploaded from office PC to bangle.io probably due to SWD's IT security rules.
