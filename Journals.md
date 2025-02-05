@@ -17,10 +17,12 @@ _20250205 (Wed)_
 - [ ] Removal after office on 20250205 (Wed)
 
 
-- [ ] Removal on 20250206 (Thu) upon work commencement.
+- [ ] Removal on 20250206 (Thu) soon after arrival to office.
 
 Image cannot be uploaded from office PC to bangle.io probably due to SWD's IT security rules.
 
 ```
 Showing 
 ```
+
+Go check in GitHub
