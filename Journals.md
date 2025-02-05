@@ -1,5 +1,7 @@
 # Journals
 
+Go check in [GitHub](https://github.com/hkkmwong/hkkmwong/blob/main/Journals.md)
+
 _20250203 (Mon)_
 
 ### Tips
@@ -24,5 +26,3 @@ Image cannot be uploaded from office PC to bangle.io probably due to SWD's IT se
 ```
 Showing 
 ```
-
-Go check in GitHub
