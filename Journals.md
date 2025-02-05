@@ -14,7 +14,7 @@
 
 20250205 (Wed)
 
-> - [ ] Removal after office on 20250205 (Wed)
+Removal after office on 20250205 (Wed)
 
 - [ ] Removal on 20250206 (Thu) upon work commencement.
 
