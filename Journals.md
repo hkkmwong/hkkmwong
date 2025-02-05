@@ -16,7 +16,7 @@ _20250203 (Mon)_
 
 _20250205 (Wed)_
 
-- [ ] Removal after office on 20250205 (Wed)
+- [x] Removal after office on 20250205 (Wed)
 
 - [ ] Removal on 20250206 (Thu) soon after arrival to office.
 
