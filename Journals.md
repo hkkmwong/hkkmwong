@@ -1,6 +1,6 @@
 # Journals
 
-20250203
+20250203 (
 
 ### Tips
 
@@ -15,3 +15,5 @@
 20250205 (Wed)
 
 > - [ ] Removal after office on 20250205 (Wed)
+
+Images cannot be uploaded from office PC probably due to IT security rules.
