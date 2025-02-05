@@ -15,5 +15,7 @@
 20250205 (Wed)
 
 > - [ ] Removal after office on 20250205 (Wed)
+>
+> Images cannot be uploaded from office PC to bangle.io probably due to IT security rules.
 
-> Images cannot be uploaded from office PC to [bangle.io](http://bangle.io) probably due to IT security rules.
+20
