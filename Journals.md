@@ -25,4 +25,4 @@ Image cannot be uploaded from office PC to bangle.io probably due to SWD's IT se
 Showing 
 ```
 
-Go check in [GitHub](https://www.github.com)
+Go check in GitHub
