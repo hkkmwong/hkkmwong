@@ -10,4 +10,8 @@
 
 [[Notes_download_GSites_as_html]]
 
-[[Notes_create_pages_in_GitHub]] 
+[[Notes_create_pages_in_GitHub]]
+
+20250205 (Wed)
+
+> - [ ] Removal after office on 20250205 (Wed)
