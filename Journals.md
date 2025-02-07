@@ -8,8 +8,6 @@ Go check in [GitHub](https://github.com/hkkmwong/hkkmwong/blob/main/Journals.md)
 
 😍[IFTTT](https://ifttt.com)
 
-[[Procedural Guide]]
-
 [[Notes_download_GSites_as_html]]
 
 [[Notes_create_pages_in_GitHub]]
