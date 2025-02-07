@@ -1,1 +1,0 @@
-# Manadated Reporter Guide ("the Guide")
