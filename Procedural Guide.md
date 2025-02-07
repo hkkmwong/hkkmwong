@@ -1,3 +1,0 @@
-# Procedural Guide
-
-Hello world!
