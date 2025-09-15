@@ -1,14 +1,42 @@
-<!DOCTYPE html>
-<html>
-<!-- Below is the HEADER part for keeping styles, etc. -->
+<!DOCTYPE HTML>
+<HTML>
+<!-- Below is the HEADER part for keeping source of fonts, styles, etc. -->
 <HEAD>
-<style>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Bitcount Single">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Ubuntu">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Ubuntu Sans Mono">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Doto">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Reddit Mono">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Reddit Sans Condensed">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Red Hat Display">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=IBM Plex Mono">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=IBM Plex Sans">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Intel One Mono">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Google Sans Code">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source Code Pro">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cascadia Code">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Fira Code">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Newsreader">
+
+<STYLE>
 table, th, td {
   border: 1px solid black;
   border-collapse: collapse;
 }
-</style>
+
+body {
+  max-width: 960px;
+  margin-top: 50px;
+  margin-down: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+  font-family: "OCR A Extended";
+}
+</STYLE>
+
+<TITLE>A TEST WEB PAGE</TITLE>
 </HEAD>
+
 <!-- Below is the BODY part for page contents. -->
 <BODY>
 <H1>THIS IS A TEST OF HTML FILE</H1>
@@ -42,7 +70,7 @@ table, th, td {
     <td>Dark Webb (1-3)</td>
     <td>Dayle, Harry</td>
     <td align="center">2025/09/01</td>
-	<td align="center">2025/09/05</td>
+	<td align="center">2025/09/30</td>
   </tr>
   <tr>
     <td>Stoic Six Pack</td>
@@ -57,30 +85,135 @@ table, th, td {
 <table style="width:100%">
   <tr>
     <th align="left">No.</th>
-    <th align="left">Image</th>
+    <th align="center">Image</th>
     <th>Start</th>
 	<th>End</th>
   </tr>
   <tr>
     <td>1.</td>
-    <td><img src="pic_bulboff.gif"</img></td>
+    <td align="center"><img src="pic_bulbon.gif" style="width:50px"</img></td>
     <td align="center">2025/09/01</td>
-	<td align="center">2025/09/05</td>
+	<td align="center">2025/09/30</td>
   </tr>
   <tr>
     <td>2.</td>
-    <td><img src="pic_bulbon.gif"</img></td>
+    <td align="center"><img src="pic_bulboff.gif" style="width:50px"</img></td>
     <td align="center">2025/06/13</td>
 	<td align="center">-</td>
   </tr>
 </table>
+<br>
+<hr>
+<H2 style="background-color:orange; color:White"><u>WRITINGS</u></H2>
+<p>Any long paragraphs that can be written to fill up the space of this section on this page?  That's why I am writing anyway.  As well as to ask how you are.</p>
+<p>Once I got through this round of treatment, I meant that.</p>
+<p>Here is a quote from WWF's website:</p>
+<br>
+<hr>
+<H2 style="background-color:DodgerBlue; color:White"><u>BLOCK QUOTE</u></H2>
+<blockquote cite="http://www.worldwildlife.org/who/index.html">
+For 60 years, WWF has worked to help people and nature thrive. As the world's leading conservation organization, WWF works in nearly 100 countries. At every level, we collaborate with people around the world to develop and deliver innovative solutions that protect communities, wildlife, and the places in which they live.
+</blockquote>
+<hr>
+<H2 style="background-color:mediumseagreen; color:White"><u>LOGS</u></H2>
+<b>sp-support-crm dd. 2025/09/10 (週三) 18:45</b><p>
+(The usual practice and liaison protocol between Police investigation team and respective FCPSU/ SWD officer on the handling of child abuse cases remain unchanged.  Police officers will approach FCSPU/SWD officer for VRI arrangement, follow up of welfare matters for VTM/ the family members, etc.  We note that the design of Reporting Platform has also facilitated Police/ SWD officers to obtain the contact details of Inputing Officer for follow up enquires.)
+<hr>
+<h2 style="background-color:magenta; color:White">WHAT CAN JAVASCRIPT DO?</h2>
+
+<p>JavaScript can change HTML attribute values.</p>
+
+<p>In this case JavaScript changes the value of the src (source) attribute of an image.</p>
+
+<button onclick="document.getElementById('myImage').src='pic_bulbon.gif'">Turn on the light</button>
+
+<img id="myImage" src="pic_bulboff.gif" style="width:50px">
+
+<button onclick="document.getElementById('myImage').src='pic_bulboff.gif'">Turn off the light</button>
+
+<hr>
+<H2 style="background-color:navy; color:White"><u>OLDIES</u></H2>
+<p>New Stage Cinema at Sham Shui Po</p>
+
+<img src="newstage.jpg" style="width:500px"</img>
+
+<hr>
+<H2 style="background-color:black; color:White"><u>GPG STUFFS</u></H2>
+<p><b>Public Keys</b></p>
+
+<p><u>A3415881</u></p>
+<pre>
+<code>
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: GnuPG v1.4.12 (MingW32)
+
+mQENBFalzTcBCAChmlxpHJ2Qdh74zMsD6IvMskVHFE9aMwgwekiTDeaj3KQTPu+S
+3ctqq7jiQ1bxYkjQhhAhqGRoHH4jrBvpzxMEfMBQiRv4nd+KS0t8Xwmg+P6gMIxa
+icsnZLVrJFg0DQQjf296ZXcedFNI4HOQwPWLU1gtQkTeUjhtWfL/SxklR+ckyhOC
+5zhLUGJpwgXT+v+GxZ9aJzFkyKGDa7EHAZf+ak7RyL5juTvoE96nL9GNP2eZs7R/
+D3x91toUuEBBZh5zf+jpmF/PjzO7EMZSNVhRChEa5p6QZu/4jodM+y3rEkDjht9f
+gB9rM1fppIsu5M7LPxAM06HzBcagn8FVotCXABEBAAG0Bmttd29uZ4kBOQQTAQIA
+IwUCVqXNNwIbAwcLCQgHAwIBBhUIAgkKCwQWAgMBAh4BAheAAAoJEKUMv1OjQViB
+MrsIAI99ckNWYVsExusH/p+2G9GrGJmHB9K0faPkuRt55dWHRE39AMfIqzF8a+FH
+adyy9Q223TtzNTuBJUxhzroxP+CRakIaGe+2uk28fQf6iSnBQ2yC0tv1Nn3dW9Nv
+UZL6KAPJ0sCl8oOeeAVBxKZG3dnijvuLHxDRDoTJU/4GVIENc1eoZTt/esCqJ1EM
+8RVH4I7OZR/kNrJzM9Lo7XxAc3eC6XsRM/L1PW8JzrM3ub8FY/D6916vnOxBUsnC
+QYLuPiLxFcCzoLuvgMDI8xhZJFGLd8kIyZTa4MtnRlz+KLz3MZcwxbvz++nLKy5I
+Y+wDHScK+k57Hk51RAUveDdNsui5AQ0EVqXNNwEIAO6qTuia4iIhnqSdG61vZpti
+TlAHozMVInzezKUqNv/e+xB/v4tXcNqUfRoIIqUg45XNW92iWss3Lq6l411QZyX+
+Y3iuPucf5daOdIYKII9wSdgHcPT30GVTGHDRZoRDIKw5hjRnt7XOS/VdJYhbCXbv
+3xer8jrlmSS2GDAIfROSnt6I4IQXh12/C4BUTY+85rTrXPoggpXsgGu3RwLAyOiA
+hJIhr+zRHxr5hccde5GTMfv7B68R2x78GvPXrgRbRwy4TsK2MPHyKEFaAO6SqxqR
+ihkCm4XcYZpDrkDEYS6ay8xI5No5SW7KtbEFKgYy4ty1H4TPNWOLvCHfywvpqCkA
+EQEAAYkBHwQYAQIACQUCVqXNNwIbDAAKCRClDL9To0FYgR2xB/9/k8SK6zVNggxq
+AJMaNoxs8felVekoZh8Ygc0FV0VXxZMQznaEeteXc+0OkWv0srWlwqQO4gwUFKIk
+I24SNBcD7iUmthPgst3VvoXm3H1rf105SdUdk7VjTzzbzeNR1rJqDjAvfoAux8lF
+BIjxxHWi9qUgUW57gkpdHAXXjVjy0qIVlM/PjNr8qz4bRH93Z0B4By2q8kUa3xmb
+76LE08F+PRJs3FDOJ4OwrC4mW8fJ0gJtd6XJAnQqVPBB98c2DLeNFTh2297dNE5Y
+PMsZsoad+x7aH6Ad9TQJg7rSkn7mo0uJqx3qjO58+RYaUJ7rUXKiP0yHSCpne4iJ
+B3d+LlrN
+=1Y0e
+-----END PGP PUBLIC KEY BLOCK-----
+</pre>
+</code>
+<p><b>Key Servers</b></p>
+<p><b>Reference</b></p>
+
+
+<hr>
+<H2 style="background-color:pink; color:White"><u>OTHER INFORMATION</u></H2>
+<p><b>Contacts</b></p>
+<p><b>Disclaimer</b></p>
+<p><b>Copyright Notices</b></p>
+<p><b>Privacy Policy</b></p>
 
 
 
 
+<hr>
+<!-- Below is Javascript for counting no. of visits. -->
 
+<div id="CounterVisitor">
+</div>
 
+<script>
+var n = localStorage.getItem('on_load_counter');
+
+if (n === null) {
+  n = 0;
+}
+n++;
+
+localStorage.setItem("on_load_counter", n);
+
+nums = n.toString().split('').map(Number);
+document.getElementById('CounterVisitor').innerHTML = '';
+for (var i of nums) {
+  document.getElementById('CounterVisitor').innerHTML += '<span class="counter-item">' + i + '</span>';
+}
+
+</script>
 
 </BODY>
 
-</html>
+</HTML>
