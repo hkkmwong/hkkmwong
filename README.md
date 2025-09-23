@@ -2,7 +2,7 @@
 
 ## Hi there 😊
 
-### 🌱 GitHub, MD and Python.
+### 🌱 GitHub, HTML, MD and Python.
 
 <details> 
 <summary>Details</summary>
