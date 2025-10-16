@@ -210,11 +210,53 @@ B3d+LlrN
         
 graph TD
 A["SS(DV)1"] --> B["S(DV)1"]
-A["SS(DV)1"] --> C["S(DV)2"] --> F["A(DV)2"]
-A["SS(DV)1"] --> D["S(DV)3"] --> G["A(DV)1"]
-A["SS(DV)1"] --> |PRSC| E("S(CW)(SD)")
+A --> C["S(DV)2"] --> C1["A(DV)2"]
+A --> D["S(DV)3"] --> D1["A(DV)1"]
+A --> |PRSC| E("S(CW)(SD)")
 
   </pre>
+
+<H3>Here is another mermaid diagram:</H3>
+  <pre class="mermaid">
+        
+gantt
+    dateFormat  YYYY-MM-DD
+    title       Project Schedule
+    excludes    weekends
+    %% (`excludes` accepts specific dates in YYYY-MM-DD format, days of the week ("sunday") or "weekends", but not the word "weekdays".)
+
+    section Stage 1 - Project Initiation
+    PSC and PAT Formation               :done, 2024-07-01,2024-08-31
+    Project Planning                    :done, des1, 2024-07-01,2024-08-31
+    Completion of Stage 1               :crit, milestone, after des1
+
+    section Stage 2 - SA & D
+    User Requirements                   :crit, done, 2024-09-01,2024-09-30
+    System Specifications               :crit, done, 2024-10-01,2024-10-31
+    Technical System Options            :crit, done, 2024-10-01,2024-10-31
+    SA&D Report                         :crit, done, des2, 2024-10-01,2024-11-30
+    Completion of Stage 2               :crit, milestone, after des2
+
+    section Stage 3 - Implementation
+    System Development                  :crit, done, 2024-12-01,2025-05-31
+    System Integration Test             :crit, done, 2025-05-01,2025-07-31
+    SRAA and Safeguard Implementation   :crit, done, 2025-05-01,2025-08-31
+    PIA & PCA                           :crit, done, 2025-05-01,2025-08-31
+    User Acceptance Test                :crit, done, 2025-08-01,2025-08-31
+    User Training                       :crit, done, 2025-09-01,2025-09-15
+    System Soft Launch (Rehearsal Run)  :crit, active, 2025-10-08,2025-12-20
+    Production Rollout                  :crit, active, des3, 2025-12-21,2025-12-31 
+    Completion of Stage 3               :crit, active, milestone, after des3       
+
+    section Stage 4 - Nursing and Closure
+    System Nursing                      :active, 2026-01-01,2026-02-28
+    System Roll-out                     :crit, milestone, 2026-01-20
+    Project Evaluation and Closure      :active, des4, 2026-03-01,2026-03-31
+    Completion of Stage 4               :crit, active, milestone, after des4    
+
+  </pre>
+  
+
 <hr>
 
 <H2 style="background-color:black; color:White"><u>OTHER INFORMATION</u></H2>
