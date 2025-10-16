@@ -204,16 +204,27 @@ B3d+LlrN
 
 
 <hr>
+<H2 style="background-color:cyan; color:White"><u>MERMAID CHARTS</u></H2>
+<H3>Here is a mermaid diagram:</H3>
+  <pre class="mermaid">
+        
+graph TD
+A["SS(DV)1"] --> B["S(DV)1"]
+A["SS(DV)1"] --> C["S(DV)2"] --> F["A(DV)2"]
+A["SS(DV)1"] --> D["S(DV)3"] --> G["A(DV)1"]
+A["SS(DV)1"] --> |PRSC| E("S(CW)(SD)")
+
+  </pre>
+<hr>
+
 <H2 style="background-color:black; color:White"><u>OTHER INFORMATION</u></H2>
 <p><b>Contacts</b></p>
 <p><b>Disclaimer</b></p>
 <p><b>Copyright Notices</b></p>
 <p><b>Privacy Policy</b></p>
 
-
-
-
 <hr>
+
 <!-- Below is Javascript for counting no. of visits. -->
 
 <div id="CounterVisitor">
@@ -236,6 +247,12 @@ for (var i of nums) {
 }
 
 </script>
+
+<script type="module">
+    import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
+    mermaid.initialize({ startOnLoad: true });
+</script>
+
 
 </BODY>
 
